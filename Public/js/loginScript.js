@@ -6,9 +6,9 @@ c.height = window.innerHeight;
 c.width = window.innerWidth;
 
 //chinese characters - taken from the unicode charset
-var chinese = "P.Grax Denim";
+var chinese = "010101010101010101011111010101010101";
 //converting the string into an array of single characters
-chinese = chinese.split("");
+//chinese = chinese.split("");
 
 var font_size = 10;
 var columns = c.width / font_size; //number of columns for the rain
